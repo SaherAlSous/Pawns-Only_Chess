@@ -1,0 +1,52 @@
+# Project exclude paths
+/.gradle/
+/Pawns-Only Chess/task/build/
+/Pawns-Only Chess/task/out/
+/Pawns-Only Chess/task/out/production/classes/
+/Pawns-Only Chess/task/out/test/classes/
+/Topics/Constructors/Bank account/out/
+/Topics/Constructors/Bank account/out/production/classes/
+/Topics/Constructors/Pets/out/
+/Topics/Constructors/Pets/out/production/classes/
+/Topics/Constructors/Point2D/out/
+/Topics/Constructors/Point2D/out/production/classes/
+/Topics/Constructors/Reddit/out/
+/Topics/Constructors/Reddit/out/production/classes/
+/Topics/Constructors/Theory/out/
+/Topics/Constructors/Theory/out/production/classes/
+/Topics/For loop and lists/Count occurrences/out/
+/Topics/For loop and lists/Count occurrences/out/production/classes/
+/Topics/For loop and lists/For loops task/out/
+/Topics/For loop and lists/For loops task/out/production/classes/
+/Topics/For loop and lists/Number in a set/out/
+/Topics/For loop and lists/Number in a set/out/production/classes/
+/Topics/For loop and lists/The index of the first max/out/
+/Topics/For loop and lists/The index of the first max/out/production/classes/
+/Topics/For loop and lists/Theory/out/
+/Topics/For loop and lists/Theory/out/production/classes/
+/Topics/For loop and lists/Triples/out/
+/Topics/For loop and lists/Triples/out/production/classes/
+/Topics/For loop and lists/Two numbers in a row/out/
+/Topics/For loop and lists/Two numbers in a row/out/production/classes/
+/Topics/Processing strings/Convert a date/out/
+/Topics/Processing strings/Convert a date/out/production/classes/
+/Topics/Processing strings/Double characters/out/
+/Topics/Processing strings/Double characters/out/production/classes/
+/Topics/Processing strings/Palindrome/out/
+/Topics/Processing strings/Palindrome/out/production/classes/
+/Topics/Processing strings/The longest word/out/
+/Topics/Processing strings/The longest word/out/production/classes/
+/Topics/Processing strings/Theory/out/
+/Topics/Processing strings/Theory/out/production/classes/
+/Topics/Repeating blocks/Counting positive numbers/out/
+/Topics/Repeating blocks/Counting positive numbers/out/production/classes/
+/Topics/Repeating blocks/Grades/out/
+/Topics/Repeating blocks/Grades/out/production/classes/
+/Topics/Repeating blocks/Kotlin x5/out/
+/Topics/Repeating blocks/Kotlin x5/out/production/classes/
+/Topics/Repeating blocks/Print a string exactly ten times/out/
+/Topics/Repeating blocks/Print a string exactly ten times/out/production/classes/
+/Topics/Repeating blocks/Size of parts/out/
+/Topics/Repeating blocks/Size of parts/out/production/classes/
+/Topics/Repeating blocks/Theory/out/
+/Topics/Repeating blocks/Theory/out/production/classes/

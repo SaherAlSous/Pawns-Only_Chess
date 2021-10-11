@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Pawns-Only Chess/task" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Bank account" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Pets" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Point2D" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Reddit" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Count occurrences" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/For loops task" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Number in a set" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/The index of the first max" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Theory" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Triples" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Two numbers in a row" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Convert a date" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Double characters" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Palindrome" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/The longest word" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Counting positive numbers" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Grades" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Kotlin x5" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Print a string exactly ten times" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Size of parts" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
